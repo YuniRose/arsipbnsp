@@ -1,6 +1,6 @@
 <?php
 
-    $server = "localhost";
+    $server = "localhost:7882";
     $user = "root";
     $password = "";
     $db_name = "arsipdb";
